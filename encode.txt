@@ -1,0 +1,1 @@
+.\tmn.exe -i .\football_cif.yuv -b 149 -x 3 -r 4500000 -R 30 -S 0 -q 1 -o qp1.263
